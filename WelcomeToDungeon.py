@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is the game "welcome to the dungeons"
+This is the game "Welcome to the dungeon"
 """
 
 import os
